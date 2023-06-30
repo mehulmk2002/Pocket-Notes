@@ -1,0 +1,8 @@
+.PocketNotesApp {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen  {
+  
+}
